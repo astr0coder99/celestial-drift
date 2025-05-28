@@ -1,7 +1,7 @@
 # Celestial Drift
 
 **Genre:** Sci-Fi Strategy / Simulation / Exploration  
-**Platform:** PC
+**Platform:** PC 
 **Core Integration:** Real NASA data from JPL, SOHO, TESS, Hubble, and more  
 
 ## Concept Overview
