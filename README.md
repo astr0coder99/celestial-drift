@@ -1,33 +1,26 @@
 # Celestial Drift
--Genre: Sci-Fi Strategy / Simulation / Exploration
 
--Platform: PC (Unity or Unreal Engine recommended)
+**Genre:** Sci-Fi Strategy / Simulation / Exploration  
+**Platform:** PC (Unity or Unreal Engine recommended)  
+**Core Integration:** Real NASA data from JPL, SOHO, TESS, Hubble, and more  
 
--Target Audience: College students, science enthusiasts, and educators
+---
 
--Core Integration: NASA real-world space data (e.g., from JPL, SOHO, TESS, Hubble, etc.)
+## Concept Overview
 
--Concept Summary:
-You’re the mission director of an independent space exploration agency competing with global powers. Your mission is to navigate the real solar system and make groundbreaking discoveries using NASA-sourced planetary and stellar data. With limited funding and time, your challenge is to build, launch, and guide spacecraft to study exoplanets, asteroid belts, black holes, and more.
+In *Celestial Drift*, you lead an independent space exploration agency competing against global powers. Your mission is to navigate the real solar system and make groundbreaking discoveries using authentic NASA planetary and stellar data. With limited funding and time, you will design, launch, and guide spacecraft to study exoplanets, asteroid belts, black holes, and other cosmic phenomena.
 
--Key Features:
-Use actual datasets from NASA APIs (e.g.,:Real star systems and asteroid belts (from JPL/Horizons).
-Exoplanets (from NASA Exoplanet Archive).
-Sunspot and solar flare data (from SOHO/TESS).
-Orbital elements and gravity modeling.
-Show orbits, planetary rotation, terrain, and star positioning based on real measurements.
+---
 
--Build Your Fleet:
-Design custom spacecraft with different modules: telescopes, propulsion systems, AI probes, gravity-assist features, etc. 
-Simulate launches, orbital transfers, and slingshot maneuvers using real Newtonian physics.
+## Key Features
 
--Decision-Based Missions
-Missions include asteroid mining, terraforming experiments, atmospheric analysis of exoplanets, or defending Earth from near-Earth object (NEO) threats.
-Students learn orbital mechanics, planetary science, and mission planning in the process.
+- **Authentic NASA Data:** Incorporates real star systems and asteroid belts (via JPL Horizons), exoplanet information (NASA Exoplanet Archive), solar activity (SOHO, TESS), and accurate orbital and gravitational modeling.  
+- **Realistic Simulation:** Visualize orbits, planetary rotation, terrain, and star positions based on measured astronomical data.  
+- **Custom Spacecraft Design:** Build your fleet by assembling modules like telescopes, propulsion units, AI probes, and gravity-assist systems. Simulate launches, orbital transfers, and gravity slingshots using Newtonian physics.  
+- **Dynamic Missions:** Engage in varied missions including asteroid mining, terraforming experiments, exoplanet atmospheric analysis, and defending Earth from near-Earth objects (NEOs).  
+- **Time-Sensitive Events:** React to real-time cosmic phenomena such as solar flares, coronal mass ejections, eclipses, and comet flybys that impact mission success.  
+- **Research & Discovery:** Analyze data with authentic scientific methods like transit photometry and spectroscopy to identify habitable worlds and unlock new technologies.
 
--Time-Sensitive Phenomena
-Use current solar weather and cosmic events in-game (e.g., coronal mass ejections disrupting satellites, eclipses, comet flybys).
-Players can receive NASA “alerts” that influence mission conditions.
+---
 
--Research & Discovery System
-Discover habitable planets by analyzing atmospheric compositions, temperatures, and orbits using actual methods like transit photometry and spectroscopy.
+*Celestial Drift* combines scientific rigor with immersive gameplay to educate and challenge players while showcasing the wonders of our universe.
